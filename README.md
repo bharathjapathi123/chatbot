@@ -9,12 +9,14 @@ Messages are displayed in chat format
 Bot replies automatically
 Clean and simple UI
 Responsive layout using Bootstrap
+
 🛠️ Technologies Used
 HTML → Structure of the webpage
 CSS → Styling the chatbot
 Bootstrap → Layout and responsiveness
 JavaScript → Functionality and interaction
 Font Awesome → Icons
+
 📂 Project Structure
 project-folder/
 │
@@ -27,6 +29,7 @@ Clicks the send button
 JavaScript captures the message
 Message is displayed in the chat container
 Bot generates a reply and displays it
+
 ▶️ How to Run
 Download or clone the project
 Open index.html in a browser
@@ -34,11 +37,13 @@ Type a message and click send
 📸 Output
 User messages appear on the right
 Bot messages appear on the left
+
 🎯 Learning Outcomes
 Understanding DOM manipulation
 Handling user events (click, input)
 Creating dynamic UI using JavaScript
 Using Bootstrap for layout
+
 🔮 Future Improvements
 Add real AI responses
 Store chat history
